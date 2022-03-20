@@ -12,7 +12,7 @@ title: My website222
 description: A virtual proof that I'm awesome
 
 # GitHub Actions
-repository: "VincentTam/beautiful-jekyll"
+# repository: "VincentTam/beautiful-jekyll"
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -26,9 +26,9 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+   # - Beautiful Jekyll: "https://beautifuljekyll.com"
+   # - Learn markdown: "https://www.markdowntutorial.com/"
+  # Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
